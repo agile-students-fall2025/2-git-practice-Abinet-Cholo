@@ -2,7 +2,7 @@
 
 ## 🔗 Link
 
-[11 Software Development Best Practices in 2025 – Netguru](https://www.netguru.com/blog/best-software-development-practices) :contentReference[oaicite:0]{index=0}
+[11 Software Development Best Practices in 2025 – Netguru](https://www.netguru.com/blog/best-software-development-practices)
 
 ---
 
