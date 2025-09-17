@@ -8,7 +8,7 @@
 
 ## 🧐 What I Find Interesting
 
-I came across the Netguru article, *“11 Software Development Best Practices in 2025”*, which gives a fresh and current perspective on what practices are trending or becoming more important now. :contentReference[oaicite:1]{index=1}
+I came across the Netguru article, *“11 Software Development Best Practices in 2025”*, which gives a fresh and current perspective on what practices are trending or becoming more important now.
 
 A few things stood out to me:
 
@@ -20,9 +20,5 @@ A few things stood out to me:
 
 ## ✅ Why Sharing This Publicly
 
-I believe these practices are really helpful to keep in mind—especially when starting new projects or when working in teams. They encourage clean code, easier collaboration, and long-term sustainability. If many of us adopt even a few of them, our workflows may become smoother, and our codebases more maintainable.
-
----
-
-*This README is public—so I tried to pick an article that I think others may also find useful or thought-provoking.*  
+I believe these practices are really helpful to keep in mind—especially when starting new projects or when working in teams. They encourage clean code, easier collaboration, and long-term sustainability. If many of us adopt even a few of them, our workflows may become smoother, and our codebases more maintainable. 
 
