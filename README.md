@@ -24,5 +24,11 @@ I believe these practices are really helpful to keep in mind—especially when s
 
 ---
 
+## 💬 Comments from Contributors
+
+**Krishiv Seth**: I really appreciate this article's focus on modern software development practices! The section on embracing AI assistance particularly resonates with me - it's fascinating how AI tools are becoming integral to our development workflow, from code completion to automated testing. The balance between leveraging AI capabilities while maintaining human oversight and creativity is something every developer needs to navigate. The emphasis on continuous learning and adaptation in the face of rapidly evolving technology is also spot-on.
+
+---
+
 *This README is public—so I tried to pick an article that I think others may also find useful or thought-provoking.*  
 
